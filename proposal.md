@@ -24,7 +24,7 @@ I'm interested in it because it gives me further opportunity to link what I'm le
 | How does the project accept contributions? |pull requests|
 | Does the project have an automated test suite? |yes|
 | Does the project use continuous integration? |yes|
-| Does the project have an AI contribution policy? |https://scikit-learn.org/stable/developers/contributing.html#automated-contributions-policy|
+| Does the project have an AI contribution policy? |https://scikit-learn.org/stable/developers/contributing|
 | Are any legal/licensing steps required to contribute? |no|
 
 ### Install and run
